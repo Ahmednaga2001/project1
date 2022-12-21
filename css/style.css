@@ -711,7 +711,7 @@ body{
 }
 .news-item{
     overflow: auto;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 .news-item-content-img{
     width: 48%;
